@@ -51,9 +51,9 @@ class HomeScreen extends StatelessWidget {
         //     backgroundImage: NetworkImage(pic),
         //   ),
         // ),
-        title: Text("HomeScreen"),
+        title: const Text("HomeScreen"),
         flexibleSpace: Container(
-          decoration: BoxDecoration(
+          decoration: const BoxDecoration(
             gradient: LinearGradient(
               colors: [Colors.yellow, Color.fromARGB(255, 3, 100, 180)],
             ),
