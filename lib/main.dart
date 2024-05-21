@@ -6,4 +6,3 @@ void main() {
     const basic_apps(),
   );
 }
-
